@@ -19,3 +19,8 @@
 
  ####      SDK接入文档：     [请点击链接](https://github.com/doupay/doupay-java)
 
+####      SDK中各方法请求和响应参数：     [请点击链接](https://github.com/doupay/doupay-java/wiki)
+
+####      API接口接入文档：     [请点击链接](https://github.com/doupay/doupay-wiki/blob/main/%E5%8E%9F%E7%94%9F%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.md)
+
+####      API接口接入规范：     [请点击链接](https://github.com/doupay/doupay-wiki/blob/main/%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83.md)
