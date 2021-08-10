@@ -17,7 +17,7 @@
 
 ❤ doupay商家后台接入支持JAVA语言和PHP语言的开发SDK，提供丰富的API接口。
 
- ####      SDK接入文档：     [请点击链接](https://github.com/doupay/doupay-java)
+ ####      SDK接入文档 java格式：     [请点击链接](https://github.com/doupay/doupay-java)
  
  ####      php格式：     [请点击链接](https://github.com/doupay/doupay-php)
  
